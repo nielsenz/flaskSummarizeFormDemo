@@ -22,7 +22,7 @@ requests==2.23.0
 s3transfer==0.3.3
 scipy==1.2.3
 six==1.14.0
-smart-open==2.0.0
+smart-open==1.11.1
 soupsieve==2.0
 urllib3==1.25.9
 visitor==0.1.3
